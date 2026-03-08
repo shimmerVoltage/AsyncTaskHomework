@@ -62,7 +62,7 @@
         android:id="@+id/infoTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="100 итераций, 300 мс задержка"
+        android:text="100 iterations, 300 ms delay"
         android:textSize="14sp"
         android:layout_marginTop="24dp"
         android:textColor="@android:color/darker_gray"/>
